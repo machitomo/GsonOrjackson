@@ -5,10 +5,7 @@ import com.google.gson.reflect.TypeToken;
 import com.google.gson.stream.JsonReader;
 import lombok.Data;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 import java.util.List;
 
 public class Main {
@@ -46,13 +43,13 @@ public class Main {
     }
 
     public static void jacksonSample() throws IOException {
-        InputStream is = ClassLoader.getSystemResourceAsStream("table_schema.json");
+//        InputStream is = ClassLoader.getSystemResourceAsStream("table_schema.json");
         ObjectMapper mapper = new ObjectMapper();
-        List<Schema> schemaList = mapper.readValue(is, new TypeReference<List<Schema>>() {});
+//        List<Schema> schemaList = mapper.readValue(is, new TypeReference<List<Schema>>() {});
+        List<Schema> schemaList = mapper.readValue(new File("src/main/resources/table_schema.json"), new TypeReference<List<Schema>>() {});
     }
 
     public static void gsonSample() throws FileNotFoundException {
-
         Gson gson = new Gson();
         JsonReader reader = new JsonReader(new FileReader("src/main/resources/table_schema.json"));
         List<Schema> schemaList = gson.fromJson(reader, new TypeToken<List<Schema>>() {
