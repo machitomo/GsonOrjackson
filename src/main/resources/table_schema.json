@@ -1,0 +1,162 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "start",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE", 
+    "name": "1",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "2",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "3",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "4",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "5",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "6",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "7",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "8",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "9",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "10",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "11",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "12",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "13",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "14",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "15",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "16",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "17",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "18",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "19",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "20",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "21",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "22",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "23",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "24",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "25",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "26",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "27",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "28",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "29",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "30",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE", 
+    "name": "end",
+    "type": "STRING"
+  }
+]
